@@ -1,0 +1,21 @@
+
+
+Pues bien, otra ventaja de npx es que puedes ejecutar cualquier paquete npm ¡sin tenerlo instalado! Por tanto no tenemos por que instalar en local el paquete create-react-app para poder generar un proyecto. Con npx podemos ejecutar $ npx create-react-app y se encargará de descargar el paquete en su última versión, que haga su cometido para finalmente eliminarlo de nuestro sistema, esto también es perfecto para probar si una herramienta puede serviros o no de manera rápida, ¡fantástico!
+
+//instalacion NPX
+npm install -g npx
+
+//version react native
+npm install react-native@0.59
+
+//listIem, Avatar
+npm install react-native-elements
+
+//instalacion react native si se rompe
+expo install react-native
+
+//list, listitem
+npm install react-native-elements
+
+
+
